@@ -8,5 +8,5 @@ back image footprint generated via [ jaseg/gerbolyze ](https://github.com/jaseg/
 
 - svg-flatten was used to generate the footprint of the picture, as gerbolyze encountered an error invoking gerbv to process the full grbl
 
-  
-
+![front of the board](https://raw.githubusercontent.com/andijcr/a-kicad-demo-board/main/front_render.png)
+![back of the board](https://raw.githubusercontent.com/andijcr/a-kicad-demo-board/main/back_render.png)
