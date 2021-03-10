@@ -1,24 +1,29 @@
 M48
-; DRILL file {KiCad 5.99.0-unknown-b691c18bfc~117~ubuntu20.10.1} date Tue Mar  9 07:05:49 2021
+; DRILL file {KiCad 5.99.0-unknown-7ef9082c86~117~ubuntu20.10.1} date Wed Mar 10 10:59:07 2021
 ; FORMAT={-:-/ absolute / metric / decimal}
-; #@! TF.CreationDate,2021-03-09T07:05:49+01:00
-; #@! TF.GenerationSoftware,Kicad,Pcbnew,5.99.0-unknown-b691c18bfc~117~ubuntu20.10.1
+; #@! TF.CreationDate,2021-03-10T10:59:07+01:00
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,5.99.0-unknown-7ef9082c86~117~ubuntu20.10.1
 FMAT,2
 METRIC
+; #@! TA.AperFunction,ViaDrill
 T1C0.300
+; #@! TA.AperFunction,ComponentDrill
 T2C0.500
+; #@! TA.AperFunction,ComponentDrill
 T3C2.500
 %
 G90
 G05
 T1
-X122.0Y-86.0
-X128.5Y-83.75
-X130.0Y-87.0
-X136.0Y-87.0
-X144.0Y-87.0
-X147.5Y-63.0
+; via hole
+X120.75Y-86.75
+X121.9Y-75.8
+X127.0Y-84.0
+X131.0Y-75.5
+X133.0Y-84.0
+X139.0Y-84.0
 T2
+; pad hole
 X123.0Y-71.5
 X123.0Y-72.5
 X123.0Y-73.5
